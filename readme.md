@@ -38,17 +38,14 @@ y accesibles.
 
 3. **Instalar dependencias**
 
-   ```bash
    npm install
-   ```
 
 4. **Configurar Chrome para depuración remota**
 
    Ir a las propiedades de Chrome y configurar así:
 
-   ```bash
    "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
-   ```
+
 
 5. **Iniciar Chrome con la depuración remota habilitada**
 
@@ -58,9 +55,7 @@ y accesibles.
 
 1. **Ejecutar el script de automatización**
 
-   ```bash
    npx ts-node index.ts
-   ```
 
    El script se conectará a la instancia de Chrome abierta, navegará a la página de PowerApps especificada y extraerá los datos de las columnas.
 
