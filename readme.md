@@ -32,10 +32,9 @@ y accesibles.
 
 2. **Clonar el repositorio**
 
-   ```bash
    git clone https://github.com/tu_usuario/tu_proyecto.git
    cd tu_proyecto
-   ```
+ 
 
 3. **Instalar dependencias**
 
