@@ -3,7 +3,11 @@
 ```markdown
 # Proyecto de Automatización con Playwright
 
-Este proyecto utiliza Playwright para automatizar la extracción de datos de columnas desde PowerApps y exportarlos a archivos Excel. Se conecta a una instancia existente de Chrome mediante el protocolo DevTools. está diseñado para automatizar la documentación de las tablas de Dataverse en aplicaciones Power Apps mediante técnicas avanzadas de scraping. Este proceso optimiza y facilita la gestión de datos al proporcionar una extracción de información precisa y eficiente, transformando los datos de columnas en informes estructurados y accesibles.
+Este proyecto utiliza Playwright para automatizar la extracción de datos de columnas desde PowerApps y exportarlos a archivos Excel.
+Se conecta a una instancia existente de Chrome mediante el protocolo DevTools. está diseñado para automatizar la documentación de las
+tablas de Dataverse en aplicaciones Power Apps mediante técnicas avanzadas de scraping. Este proceso optimiza y facilita la gestión
+de datos al proporcionar una extracción de información precisa y eficiente, transformando los datos de columnas en informes estructurados
+y accesibles.
 
 ## Funcionalidades
 
